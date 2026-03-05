@@ -19,7 +19,7 @@ AI & Machine Learning Engineer • Generative AI Developer • Full Stack Develo
 # 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python  ,java  ,cpp  ,  c,   javascript,   html,   css" />
 </p>
 
 
