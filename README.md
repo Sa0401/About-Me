@@ -1,3 +1,23 @@
+<h1 align="center">Sarathy S</h1>
+
+<h3 align="center">
+AI & Machine Learning Engineer • Generative AI Developer • Full Stack Developer
+</h3>
+
+<p align="center">
+  <a href="http://www.linkedin.com/in/sarathy-s-29288831b">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sarusarathy0401@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" />
+  </a>
+</p>
+
+<br>
+<hr>
+<br>
+
 # 💻 Programming Languages
 
 <p align="center">
@@ -5,7 +25,6 @@
 </p>
 
 <br><br>
-
 
 # 🤖 Artificial Intelligence & Generative AI
 
@@ -43,7 +62,6 @@
 
 <br><br>
 
-
 # 🌐 Full Stack Development
 
 <p align="center">
@@ -58,9 +76,14 @@
 
 <br><br>
 
-
 # ⚙️ Tools & Platforms
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,jupyter,mysql,mongodb&perline=7" />
 </p>
+
+<br>
+
+<h3 align="center">
+⚡ Engineering Scalable Systems • Building Intelligent Applications • Shipping Production-Ready Solutions
+</h3>
